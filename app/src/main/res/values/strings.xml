@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Hong Kong Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
+    <string name="food_duddell_name">Duddell’s Chinese Restaurant</string>
+    <string name="food_duddell_description">Duddell’s is a haven of sophistication offering inspiring art exhibitions, elegant design and Cantonese fine dining.</string>
+    <string name="food_duddell_address">1 Duddell Street, Central, Hong Kong Island, Hong Kong</string>
+    <string name="food_duddell_phone">+852 25259191</string>
+    <string name="food_duddell_schedule">Mo-Su 12:00–24:00</string>
+    <string name="food_price_two">$$</string>
+
+    <string name="food_kam_name">Kam’s Roast Goose</string>
+    <string name="food_kam_description">Kam’s Roast Goose proved its quality by gaining a Michelin star just four months after opening.</string>
+    <string name="food_kam_address">226 Hennessy Road, Wan Chai, Hong Kong Island, Hong Kong</string>
+    <string name="food_kam_phone">+852 27881226</string>
+    <string name="food_kam_schedule">\"Mo-Su 9:00–21:30</string>
+
+    <string name="food_timhowan_name">Tim Ho Wan</string>
+    <string name="food_timhowan_description">Their signature is a crisp and fragrant baked bun with barbecue pork.</string>
+    <string name="food_timhowan_address">9-11 Fuk Wing Street, Sham Shui Po, Kowloon, Hong Kong</string>
+    <string name="food_timhowan_phone">+852 27881226</string>
+    <string name="food_timhowan_schedule">Mo-Su 9:00–21:30</string>
+    <string name="food_price_four">$$$$</string>
+
+    <string name="food_ecriture_name">Écriture French Restaurant</string>
+    <string name="food_ecriture_description">Each dish effortlessly champions both regions, creating an inventive and at times surprising dining experience.</string>
+    <string name="food_ecriture_address">80 Queen Road Central, Central, Island, Hong Kong</string>
+    <string name="food_ecriture_phone">+852 27955996</string>
+    <string name="food_ecriture_schedule">Mo-Su 12:00–2:00</string>
+    <string name="food_price_one">$</string>
+
+
+    <string name="food_arcane_name">Arcane European Restaurant</string>
+    <string name="food_arcane_description">Arcane is an elegant dining spot has now earned its own Michelin star for its concise yet exquisite menu of modern European cuisine that incorporates fresh produce.</string>
+    <string name="food_arcane_address">9-11 Fuk Wing Street, Sham Shui Po, Kowloon, Hong Kong</string>
+    <string name="food_arcane_phone">+852 31968888</string>
+    <string name="food_arcane_schedule">Mo-Su 12:00–22:30</string>
+
+    <string name="food_caprice_name">Caprice</string>
+    <string name="food_caprice_description">Chef de cuisine Guillaume Galliot heads the kitchen and serves an inventive menu in an elegant dining room set within the Four Seasons.</string>
+    <string name="food_caprice_address">9-11 Fuk Wing Street, Sham Shui Po, Kowloon, Hong Kong</string>
+    <string name="food_caprice_phone">+852 31968888</string>
+    <string name="food_caprice_schedule">Mo-Su 12:00–22:30</string>
+
+    <string name="food_shikon_name">Shitukatsu</string>
+    <string name="food_shikon_description">Under the leadership of executive chef Yoshiharu Kakinuma, Shikon presents customers with meticulously crafted sushi, soup and desserts.</string>
+    <string name="food_shikon_address">7/F Central, Hong Kong Island, Hong Kong</string>
+    <string name="food_shikon_phone">+852 26436800</string>
+    <string name="food_shikon_schedule">Mo-Su 12:00–2:00</string>
+
+    <string name="hotel_ibis_name">IBIS Hong Kong Central and Sheung Wan Hotel</string>
+    <string name="hotel_ibis_description">It may have a long-winded title, but this ibis hotel is in a perfect location for exploring both Central and Sheung Wan. It’s walking distance to SoHo’s food and drink scene and the HK Macau Ferry Terminal.</string>
+    <string name="hotel_ibis_address">No 28 Des Voeux Road West, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_ibis_phone">+852 22522929</string>
+    <string name="hotel_ibis_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="hotel_akvo_name">AKVO Hotel</string>
+    <string name="hotel_akvo_description">AKVO Hotel aims to be the perfect balance between comfort and luxury, which is noticeable in its 29 large guest rooms and suites.</string>
+    <string name="hotel_akvo_address">No 28 Des Voeux Road West, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_akvo_phone">+852 34287000</string>
+    <string name="hotel_akvo_schedule">Mo-Su 24h</string>
+
+    <string name="hotel_mojo_name">Mojo Nomad Central</string>
+    <string name="hotel_mojo_description">Mojo Nomad Central says it’s a new kind of boutique accommodation with design-led spaces and affordable luxury rooms.</string>
+    <string name="hotel_mojo_address">286 Queen Road Central, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_mojo_phone">+852 34233286</string>
+    <string name="hotel_mojo_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="hotel_holiday_name">Holiday Inn Express Hong Kong SoHo</string>
+    <string name="hotel_holiday_description">Holiday Inn Express is located in an envious position. Guests can easily walk to SoHo, Lan Kwai Fong and Hollywood Road (known as Antiques Street).</string>
+    <string name="hotel_holiday_address">No.83 Jervois Street, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_holiday_phone">+852 34178888</string>
+    <string name="hotel_holiday_schedule">Mo-Su 10:30–21:00</string>
+
+    <string name="hotel_jervois_name">The Jervois</string>
+    <string name="hotel_jervois_description">The Jervois is a National Properties’ boutique hotel in Sheung Wan.</string>
+    <string name="hotel_jervois_address">89 Jervois Street, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_jervois_phone">+852 39949000</string>
+    <string name="hotel_jervois_schedule">Mo-Su 11:00–19:00</string>
+
+    <string name="hotel_butterfly_name">Butterfly on Waterfront</string>
+    <string name="hotel_butterfly_description">A reputable hotel chain in Hong Kong, Butterfly on Waterfront offers complimentary pocket Wi-Fi devices and smartphones with select rooms, and local ambassadors to help you plan your trip.</string>
+    <string name="hotel_butterfly_address">94 Connaught Road West, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_butterfly_phone">+852 35599988</string>
+    <string name="hotel_butterfly_schedule">Mo-Su 12:00–21:00</string>
+
+    <string name="hotel_iclub_name">iClub Sheung Wan Hotel</string>
+    <string name="hotel_iclub_description">The iclub Sheung Wan Hotel describes itself as a no-frills trendy hotel that targets self-sufficient and tech-savvy travellers with its optimal functionality.</string>
+    <string name="hotel_iclub_address">138 Bonham Strand, Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="hotel_iclub_phone">+852 39636100</string>
+    <string name="hotel_iclub_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="shop_lab_name">Lab Concept</string>
+    <string name="shop_lab_description">Beauty addicts should definitely hit up FACESSS, the beauty section at Lab Concept, an upscale multi-brand emporium in Admiralty. There are counters for over 50 beauty and skincare brands, including Dior Backstage Studio.</string>
+    <string name="shop_lab_address">93 Queensway, Admiralty, Hong Kong Island, Hong Kong</string>
+    <string name="shop_lab_phone">+852 21186008</string>
+    <string name="shop_lab_schedule">Mo-Su 10:00–21:00</string>
+
+    <string name="shop_logon_name">Log On</string>
+    <string name="shop_logon_description">Log On is a lifestyle store owned by retail chain Citysuper that specializes in upmarket imported goods, especially from Japan.</string>
+    <string name="shop_logon_address">1 Matheson Street, Causeway Bay, Hong Kong Island, Hong Kong</string>
+    <string name="shop_logon_phone">+852 25062888</string>
+    <string name="shop_logon_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="shop_sogo_name">SOGO</string>
+    <string name="shop_sogo_description">The ground and upper basement floors of this landmark Japanese shopping mall in the center of Causeway Bay are dedicated to premium beauty labels, featuring a host of mostly European and American upscale brands such as Chanel, Dior, Estee Lauder, Clarins, Bobbi Brown and more.</string>
+    <string name="shop_sogo_address">East Point Centre And East Point Centre (new Wing) Hennessy Road, Causeway Bay, Hong Kong Island</string>
+    <string name="shop_sogo_phone">+852 28338338</string>
+    <string name="shop_sogo_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="shop_lanecrawford_name">Lane Crawford</string>
+    <string name="shop_lanecrawford_description">This luxury department store stocks the most coveted beauty, fragrance and skincare brands from around the world.</string>
+    <string name="shop_lanecrawford_address">Causeway Bay, Hong Kong Island, Hong Kong</string>
+    <string name="shop_lanecrawford_phone">+852 34093431</string>
+    <string name="shop_lanecrawford_schedule">Mo-Su 10:30–21:00</string>
+
+    <string name="shop_brows_name">Brows a Go Go</string>
+    <string name="shop_brows_description">The store carries Benefit’s complete line of premium brow products available for purchase, and lip and chin waxing services are also available.</string>
+    <string name="shop_brows_address">22 Lyndhurst Terrace, Central, Hong Kong Island, Hong Kong</string>
+    <string name="shop_brows_phone">+852 21570398</string>
+    <string name="shop_brows_schedule">Mo-Su 11:00–19:00</string>
+
+    <string name="shop_flow_name">Flow Books</string>
+    <string name="shop_flow_description">Founded in 1997 by a husband and wife, browsing the shelves at Flow Books is the quaintest of shopping experiences, with every nook and cranny crammed with overflowing volumes.</string>
+    <string name="shop_flow_address">Sheung Wan, Hong Kong Island, Hong Kong</string>
+    <string name="shop_flow_phone">+852 92785664</string>
+    <string name="shop_flow_schedule">Mo-Su 12:00–21:00</string>
+
+    <string name="shop_etude_name">Etude House</string>
+    <string name="shop_etude_description">This Korean cosmetics brand is extremely popular with Hong Kong’s younger, local crowd. They carry a range of products for eyes, lips, skin, nails and hair for a fresh and youthful look.</string>
+    <string name="shop_etude_address">2 Matheson Street, Causeway Bay, Hong Kong Island, Hong Kong</string>
+    <string name="shop_etude_phone">+852 25062888</string>
+    <string name="shop_etude_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="shop_livingbookspace_name">Living Bookspace</string>
+    <string name="shop_livingbookspace_description">Pop into this tiny bookshop in Yuen Long for an eclectic range of books at absurdly reasonable prices.</string>
+    <string name="shop_livingbookspace_address">Shun Fung Building, 5 Fung Yau Street North, Yuen Long, New Territories, Hong Kong</string>
+    <string name="shop_livingbookspace_phone">+852 28032840</string>
+    <string name="shop_livingbookspace_schedule">Mo-Su 10:00–22:00</string>
+
+    <string name="shop_8Five2_name">8Five2</string>
+    <string name="shop_8Five2_description">Launched in 1999, 8Five2 was one of the first local authentic skateboard and street fashion stores to open in Hong Kong.</string>
+    <string name="shop_8Five2_address">1/F, 522 Jaffe Road, Causeway Bay, Hong Kong Island, Hong Kong</string>
+    <string name="shop_8Five2_phone">+852 25739872</string>
+    <string name="shop_8Five2_schedule">Mo-Su 12:00–10:00</string>
+
+    <string name="sight_buddha_name">Ten Thousand Buddhas Monastery</string>
+    <string name="sight_buddha_description">This temple was founded in 1955 by Buddhist laymen Yuet Kai.By 1957, around 12,800 Buddha statues were made for this monastery. </string>
+    <string name="sight_buddha_address">Pai Tau, New Territories, Hong Kong</string>
+    <string name="sight_buddha_phone">+852 26911067</string>
+    <string name="sight_buddha_schedule"><![CDATA[9:00–17:00. Mondays & Fridays closed.]]></string>
+    <string name="sight_price_free">Free</string>
+
+    <string name="sight_miufat_name">Miu Fat Buddhist Monastery</string>
+    <string name="sight_miufat_description">The first construction of the Miu Fat Buddhist Temple was in the 1950s. The building has a Buddhist Shrine, a community hall, a library, cultural welfare facilities and a kitchen serving vegetarian food.</string>
+    <string name="sight_miufat_address">Miu Fat Buddhist Monastery Complex Castle Peak Road (Lam Tei), Lam Tei, New Territories, Hong Kong</string>
+    <string name="sight_miufat_phone">+852 24618567</string>
+    <string name="sight_miufat_schedule">9:00–19:00. Tuesdays closed.</string>
+    <string name="sight_miufat_price">Free</string>
+
+    <string name="sight_disneyland_name">Hong Kong Disneyland</string>
+    <string name="sight_disneyland_description">This ever cheery American export is divided into seven themed “lands,” including Hong Kong exclusives such as Grizzly Gulch, which has an American Wild West theme, and Mystic Point, a mysterious rainforest with a haunted manor.</string>
+    <string name="sight_disneyland_address">Lantau Island, New Territories, Hong Kong</string>
+    <string name="sight_disneyland_phone">+852 35503388</string>
+    <string name="sight_disneyland_schedule">10:30–20:00.</string>
+
+    <string name="sight_art_name">Tang Contemporary Art</string>
+    <string name="sight_art_description">Hong Kong’s first “vertical art complex”, housed in a state-of-the-art glass tower designed specifically with galleries in mind.</string>
+    <string name="sight_art_address">80 Queen Road Central, Central, Hong Kong Island, Hong Kong</string>
+    <string name="sight_art_phone">+852 26828289</string>
+    <string name="sight_art_schedule">11:00-19:00</string>
+
+    <string name="sight_malingue_name">Edouard Malingue Gallery</string>
+    <string name="sight_malingue_description">Edouard Malingue Gallery showcases the works of both emerging and established creatives – from Hong Kong sound performance artist and composer Samson Young, to leading Korean abstract painter Cho Yong-ik.</string>
+    <string name="sight_malingue_address">Central, Hong Kong Island, Hong Kong</string>
+    <string name="sight_malingue_phone">+852 28100317</string>
+    <string name="sight_malingue_schedule">5:00–18:00</string>
+
+    <string name="sight_museum_name">Hong Kong Correctional Services Museum</string>
+    <string name="sight_museum_description">Encased within a two-story building that also houses ten galleries, all of which showcase the changes in the penal system over the last 160 years.</string>
+    <string name="sight_museum_address">4 Tung Tau Wan Road, Stanley, Hong Kong Island, Hong Kong</string>
+    <string name="sight_museum_phone">+852 21473199</string>
+    <string name="sight_museum_schedule">10:00–17:00</string>
+
+    <string name="sight_lanbuddha_name">Tian Tian Buddha</string>
+    <string name="sight_lanbuddha_description">A trip to the majestic Tian Tian Buddha is a must for first time visitors to Lantau. The 112 ft-tall, 250 metric ton bronze sculpture rests on a podium that visitors must climb 268 steps to reach.</string>
+    <string name="sight_lanbuddha_address">Ngong Ping Road, Lantau Island, New Territories, Hong Kong</string>
+    <string name="sight_lanbuddha_phone">+852 29855248</string>
+    <string name="sight_lanbuddha_schedule">8:00-18:45 Weekends closed</string>
+
+</resources>
